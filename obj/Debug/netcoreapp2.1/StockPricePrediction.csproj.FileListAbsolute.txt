@@ -1,0 +1,13 @@
+C:\Users\Jake0\source\repos\StockPricePrediction\bin\Debug\netcoreapp2.1\StockPricePrediction.deps.json
+C:\Users\Jake0\source\repos\StockPricePrediction\bin\Debug\netcoreapp2.1\StockPricePrediction.runtimeconfig.json
+C:\Users\Jake0\source\repos\StockPricePrediction\bin\Debug\netcoreapp2.1\StockPricePrediction.runtimeconfig.dev.json
+C:\Users\Jake0\source\repos\StockPricePrediction\bin\Debug\netcoreapp2.1\StockPricePrediction.dll
+C:\Users\Jake0\source\repos\StockPricePrediction\obj\Debug\netcoreapp2.1\StockPricePrediction.csprojAssemblyReference.cache
+C:\Users\Jake0\source\repos\StockPricePrediction\obj\Debug\netcoreapp2.1\StockPricePrediction.csproj.CoreCompileInputs.cache
+C:\Users\Jake0\source\repos\StockPricePrediction\obj\Debug\netcoreapp2.1\StockPricePrediction.AssemblyInfoInputs.cache
+C:\Users\Jake0\source\repos\StockPricePrediction\obj\Debug\netcoreapp2.1\StockPricePrediction.AssemblyInfo.cs
+C:\Users\Jake0\source\repos\StockPricePrediction\bin\Debug\netcoreapp2.1\StockPricePrediction.pdb
+C:\Users\Jake0\source\repos\StockPricePrediction\obj\Debug\netcoreapp2.1\StockPricePrediction.dll
+C:\Users\Jake0\source\repos\StockPricePrediction\obj\Debug\netcoreapp2.1\StockPricePrediction.pdb
+C:\Users\Jake0\source\repos\StockPricePrediction\bin\Debug\netcoreapp2.1\Data\AAPL-Test.csv
+C:\Users\Jake0\source\repos\StockPricePrediction\bin\Debug\netcoreapp2.1\Data\AAPL-Train.csv
